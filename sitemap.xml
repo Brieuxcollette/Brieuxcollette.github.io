@@ -59,6 +59,14 @@
     
     <url>
     
+      <loc>/project/example-project/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/</loc>
       <lastmod>2017-10-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
